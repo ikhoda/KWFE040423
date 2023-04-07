@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(243, 224, 224);
+    margin-left: 20px;
+}
+
+.post-1 {
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    color: white;
+    margin-bottom: 20px;
+}
+.post-2 {
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    color: white;
+    margin-bottom: 20px;
+}
+.post-3 {
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    color: white;
+}
